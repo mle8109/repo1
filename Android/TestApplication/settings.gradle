@@ -1,0 +1,3 @@
+include ':MainApp'
+include ':LIBRARY:mylibrary1'
+include ':LIBRARY:mylibrary2'

@@ -1,0 +1,2 @@
+include ':NRA_APP'
+include ':LIBRARY:NEWS_LIB'
